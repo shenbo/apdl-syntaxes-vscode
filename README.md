@@ -2,6 +2,8 @@
 
 An extension with rich support for the APDL(ANSYS Parametric Design Languages) language.
 
+See More: [github.com]https://github.com/shenbo/apdl-syntaxes-vscode
+
 ## Features
 
 ![screenshoot_1](images/screenshoot_1.png)
@@ -16,7 +18,9 @@ Support file extensions:
 
 ## Release Notes
 
+**Version 0.1.2**: Fix Comments Symbol("!").
+
 **Version 0.1.1**: Update .
 
-**V0.1.0**: Initial release .
+**Version 0.1.0**: Initial release .
 

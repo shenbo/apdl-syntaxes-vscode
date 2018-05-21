@@ -2,10 +2,10 @@
     "name": "apdl",
     "displayName": "APDL",
     "description": "APDL(ANSYS Parametric Design Language) Language Support for VS Code.",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "publisher": "shenbo",
     "engines": {
-        "vscode": "^1.13.0"
+        "vscode": "^1.23.1"
     },
     "icon": "images/logo-ansys.jpg",
     "categories": [
