@@ -2,7 +2,7 @@
 
 An extension with rich support for the APDL(ANSYS Parametric Design Languages) language.
 
-See More: [github.com]https://github.com/shenbo/apdl-syntaxes-vscode
+See More: [](https://github.com/shenbo/apdl-syntaxes-vscode)
 
 ## Features
 
